@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:14254",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\WORK_D\\VSS_Web\\TDCAPP_BOXWEB\\TDCAPP_BOXWEB.Server\\..\\tdcapp_boxweb.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

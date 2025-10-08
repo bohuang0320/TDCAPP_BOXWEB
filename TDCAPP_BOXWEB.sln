@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "tdcapp_boxweb.client", "tdcapp_boxweb.client\tdcapp_boxweb.client.esproj", "{F54174A6-4871-245E-1BC7-1D7F7C7848C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDCAPP_BOXWEB.Server", "TDCAPP_BOXWEB.Server\TDCAPP_BOXWEB.Server.csproj", "{DA74445A-63DC-4D37-8B1A-4A4CE1B1C46A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F54174A6-4871-245E-1BC7-1D7F7C7848C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54174A6-4871-245E-1BC7-1D7F7C7848C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54174A6-4871-245E-1BC7-1D7F7C7848C5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F54174A6-4871-245E-1BC7-1D7F7C7848C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54174A6-4871-245E-1BC7-1D7F7C7848C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F54174A6-4871-245E-1BC7-1D7F7C7848C5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DA74445A-63DC-4D37-8B1A-4A4CE1B1C46A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA74445A-63DC-4D37-8B1A-4A4CE1B1C46A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA74445A-63DC-4D37-8B1A-4A4CE1B1C46A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA74445A-63DC-4D37-8B1A-4A4CE1B1C46A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08108DB6-6E15-4A67-90DA-7760783221CD}
+	EndGlobalSection
+EndGlobal
